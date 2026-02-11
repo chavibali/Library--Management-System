@@ -17,6 +17,7 @@ It has Admin and User roles with role-based access control.
 5. Create tables using phpMyAdmin
 6. Open browser and run:
    Project runs locally using XAMPP:
+   http://localhost/Library-Management-System/
 (http://localhost/Library-Management-System/admin.php)
 
 
